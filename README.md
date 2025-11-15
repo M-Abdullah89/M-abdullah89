@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Muhammad Abdullah<br>A passionate developer from Pakistan<br>👨‍💻 My Portfolio : portfolio-ofabdullah.netlify.app<br>🌱 I’m currently learning React.js<br>⚡ Fun fact : I Love Improving my knowledge <br> I use "Arch" btw 😎
+Hi 👋, I'm Muhammad Abdullah<br>A passionate developer from Pakistan<br>👨‍💻 My Portfolio : portfolio-ofabdullah.netlify.app<br>🌱 I’m currently learning React.js<br>⚡ Fun fact : I Love Improving my knowledge <br> 😎 I use "Arch" btw 
 
 
 ## 🌐 Socials:
